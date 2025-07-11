@@ -1,0 +1,22 @@
+# JetBrains CLion 관련 설정 파일 무시
+.idea/
+
+# CMake 빌드 디렉토리 무시
+cmake-build-*/
+
+# 각종 로그 및 임시 파일 무시
+*.log
+*.temp
+*.tmp
+
+# 컴파일된 바이너리 및 라이브러리 파일 무시
+*.o
+*.a
+*.so
+*.dll
+*.exe
+myos  # 빌드된 실행 파일 이름
+
+# 기타 OS 생성 파일 무시
+.DS_Store
+Thumbs.db
