@@ -1,0 +1,3 @@
+/Users/junyeong/maindir/myos/cmake-build-debug/CMakeFiles/myos.dir
+/Users/junyeong/maindir/myos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/junyeong/maindir/myos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
